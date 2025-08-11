@@ -1,4 +1,5 @@
 #!/bin/sh
+#ITS THE START.SH
 
 set -e
 
